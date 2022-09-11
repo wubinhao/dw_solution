@@ -24,6 +24,8 @@
 2. run.sh
 3. 最终预测结果会放到 './cikm22_data/final_res/prediction_final.csv'
 
+## 注意
+- 所有数据集都是独立建模的，互不影响
 
 ## 环境依赖
 - Windows 10
